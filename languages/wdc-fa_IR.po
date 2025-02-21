@@ -1,0 +1,10 @@
+// فایل‌های ترجمه
+
+msgid "Remaining Coupons"
+msgstr "کدهای تخفیف باقیمانده"
+
+msgid "Settings"
+msgstr "تنظیمات"
+
+msgid "Discount Counter"
+msgstr "شمارنده تخفیف"
